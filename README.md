@@ -43,3 +43,5 @@ Resources
 ---------
 
 - A step-by-step tutorial - http://blog.codeleak.pl/2016/03/quickstart-angular2-with-typescript-and.html
+
+npm install typings -g --save-dev
